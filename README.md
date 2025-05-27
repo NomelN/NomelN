@@ -1,1 +1,1 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=1E6788&background=1DE69A00&center=true&vCenter=true&width=435&lines=Bonjour%2C+je+suis+Mickael+Nomel;D%C3%A9veloppeur+Backend+Python;D%C3%A9veloppeur+Fullstack)](https://git.io/typing-svg)
