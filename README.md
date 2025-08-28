@@ -60,7 +60,3 @@ je suis reconnu pour ma rigueur, mon autonomie et ma capacité d'adaptation. Mon
 - **Anglais** : Technique
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mickaelnomel&color=206F92&style=flat-square&label=Visiteurs+du+profil" alt="Profile Views" />
-</p>
