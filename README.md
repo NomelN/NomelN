@@ -6,11 +6,13 @@
 
 ## 👨‍💻 À propos de moi
 
-Développeur FullStack passionné avec plus de 5 ans d'expérience, je me spécialise dans le développement backend Python et les architectures complètes. Actuellement chez **Taptap Send** à Paris, je développe des systèmes de génération de codes promotionnels et des CRM multi-partenaires.
+Développeur FullStack passionné avec plus de 3 ans d'expérience professionnelle, je me suis spécialisé dans le développement backend et la conception d'architecture web moderne.
+je suis reconnu pour ma rigueur, mon autonomie et ma capacité d'adaptation. Mon approche est orientée vers le travail d'équipe et l'innovation, apportant une force de proposition constructive à chaque projet.
+
+**Mon ojectif est de créer des solutions web modernes et performantes qui transforment les idées en réalités digitales impactantes.**
 
 - 🌍 Basé à Chelles (77500), France
-- 💼 Développeur FullStack chez Taptap Send
-- 🎓 Mastère Expert en Informatique et S.I (BAC+5) - EPSI Paris
+- 🎓 Mastère Expert en Informatique et Système d'Information (BAC+5) - Paris
 - 🌐 Site web : [mickaelnomel.fr](https://www.mickaelnomel.fr)
 - 📧 Contact : nomelmickael51@gmail.com
 
@@ -46,68 +48,9 @@ Développeur FullStack passionné avec plus de 5 ans d'expérience, je me spéci
 
 ---
 
-## 💼 Expérience professionnelle
-
-### 🚀 Taptap Send - Développeur FullStack
-**Novembre 2024 - Présent | Paris**
-- Développement d'un système de génération de codes promotionnels
-- Création d'un CRM multi-partenaires
-- Mise en place des tests unitaires et CI/CD
-- Support client niveau 2 et résolution d'incidents techniques
-
-### 🏢 Eden Tech - Développeur FullStack  
-**Septembre 2023 - Octobre 2024 | Paris**
-- Développement d'un système d'abonnement basé sur des clés de licence
-- Intégration sécurisée avec Stripe pour les paiements
-- Système d'authentification sécurisé et gestion des sessions
-- Sauvegarde et chargement des projets utilisateurs
-
-### 🔧 Conflédis - Développeur FullStack
-**Août 2023 - Septembre 2023 | Paris**  
-- Refactoring et revue de code
-- Automatisation avec Celery
-- Système d'exportation de données comptables
-- Migration vers AWS
-
----
-
-## 🎓 Formation
-
-- **Mastère Expert en Informatique et S.I (BAC+5)** - EPSI Paris (2022-2024)
-- **Master Informatique et Science du Numérique (BAC+5)** - Université Virtuelle, Côte d'Ivoire (2020-2022)
-- **Licence Développement d'Application et e-Service (BAC+3)** - Université Virtuelle, Côte d'Ivoire (2016-2019)
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mickaelnomel&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=206F92&icon_color=206F92" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickaelnomel&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=206F92" alt="Top Languages" />
-</p>
-
----
-
-## 🌟 Qualités
-
-- **Curiosité** - Toujours en quête d'apprentissage
-- **Rigueur** - Attention aux détails et qualité du code
-- **Esprit d'équipe** - Collaboration efficace et communication
-- **Autonomie** - Capacité à mener des projets de bout en bout
-- **Force de proposition** - Initiative et solutions innovantes
-- **Adaptabilité** - Flexibilité face aux nouveaux défis
-
----
-
 ## 🎯 Centres d'intérêt
 
-- ⚽ Football
-- 🎮 Jeux vidéo
-- 💻 Nouvelles technologies
-- 🤖 Intelligence Artificielle
+⚽ Football     🎮 Jeux vidéo    💻 Nouvelles technologies    🤖 Intelligence Artificielle
 
 ---
 
@@ -120,8 +63,4 @@ Développeur FullStack passionné avec plus de 5 ans d'expérience, je me spéci
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mickaelnomel&color=206F92&style=flat-square&label=Visiteurs+du+profil" alt="Profile Views" />
-</p>
-
-<p align="center">
-  💼 Ouvert aux opportunités | 📧 nomelmickael51@gmail.com | 🌐 <a href="https://www.mickaelnomel.fr">mickaelnomel.fr</a>
 </p>
