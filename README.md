@@ -11,7 +11,6 @@ je suis reconnu pour ma rigueur, mon autonomie et ma capacité d'adaptation. Mon
 
 **Mon ojectif est de créer des solutions web modernes et performantes qui transforment les idées en réalités digitales impactantes.**
 
-- 🌍 Basé à Chelles (77500), France
 - 🎓 Mastère Expert en Informatique et Système d'Information (BAC+5) - Paris
 - 🌐 Site web : [mickaelnomel.fr](https://www.mickaelnomel.fr)
 - 📧 Contact : nomelmickael51@gmail.com
